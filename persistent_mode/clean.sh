@@ -1,0 +1,1 @@
+rm -rf HF.sanitizer.* crashes/* corpus/* *.REPORT.TXT crash* fuzzer
